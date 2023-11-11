@@ -1,8 +1,17 @@
-# React + Vite
+# Order Pizza App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Technologies
+- React js : A JavaScript library for building user interfaces.
+- Vite: A fast build tool and development environment for modern web projects.
+- Redux: A predictable state container for JavaScript applications.
+- Tailwind CSS: A utility-first CSS framework for building modern web applications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How it works 
+write in terminal : npm run dev
+
+## Demo
+See the live demo of the Wild-Oasis Quiz App: [Demo App](https://fast-pizza-ahmed.netlify.app)
+
+## Contact
+If you have any questions or want to get in touch, you can find me on LinkedIn: [in/Ahmed Mosad](https://www.linkedin.com/in/ahmed-mosad-5ab36b285/)
